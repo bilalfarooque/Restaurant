@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+.nav-item .active{
+    background-color: #124564;
+    border-radius: 5px;
+}
+
+.nav-item a{
+  padding-left: 10px;
+  font-size: 18px;
+}
+.navbar-nav li{
+  margin: 10px 20px;
+
+}
+
+.nav-item a:hover{
+  background-color: grey;
+  border-radius: 5px;
+}
